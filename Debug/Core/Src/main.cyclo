@@ -1,0 +1,15 @@
+main.c:99:5:main	1
+main.c:168:6:SystemClock_Config	4
+main.c:215:13:MX_ADC1_Init	5
+main.c:290:13:MX_ADC2_Init	4
+main.c:356:13:MX_ADC3_Init	4
+main.c:422:13:MX_ADC4_Init	4
+main.c:488:13:MX_TIM2_Init	6
+main.c:546:13:MX_DMA_Init	1
+main.c:574:13:MX_GPIO_Init	1
+main.c:621:6:HAL_ADC_ConvCpltCallback	5
+main.c:695:6:enable_Arm	1
+main.c:701:6:disable_Arm	1
+main.c:721:6:enable_Drive	1
+main.c:727:6:disable_Drive	1
+main.c:739:6:Error_Handler	1
